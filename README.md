@@ -28,8 +28,8 @@
  	<a href="https://www.twitch.tv/showdabeta" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:robertameelo91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/robertamelo91" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://stackoverflow.com/users/edit/10420071" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a> 
+   <a href="https://stackoverflow.com/users/edit/10420071" target="_blank"><img src="https://github.com/henriquelbsouza/henriquelbsouza/blob/output/github-contribution-grid-snake.svg" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/RobertaMelo/robertamelo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
